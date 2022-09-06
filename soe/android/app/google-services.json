@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193660338543",
+    "project_id": "smart-toilet-management-system",
+    "storage_bucket": "smart-toilet-management-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193660338543:android:de5f0b294850821cb7a89a",
+        "android_client_info": {
+          "package_name": "com.soul.soe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193660338543-k0sr49pqp66lcrbq58dgf5crvpde7vo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxFOfJKmED2JiGVxaE3WgtUrw0yt2F99c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193660338543-k0sr49pqp66lcrbq58dgf5crvpde7vo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
